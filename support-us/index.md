@@ -23,7 +23,7 @@ Sign up here!
 <br>
 --->
 ## Become a Mentor
-We are always looking for expertise in programming, electronics, engineering, mechanics, design, marketing, finances, and business who can share their knowledge with our members. If you are interested in helping out high school students and would like to volunteer in any capacity as a mentor for Team 3128 or have any questions, please let us know!
+We are always looking for experts in programming, electronics, engineering, mechanics, design, marketing, finances, and business who can share their knowledge with our members. If you are interested in helping out high school students and would like to volunteer in any capacity as a mentor for Team 3128 or have any questions, please let us know!
 <div>
 <a href="/contact/">
 <div class="button hover_animate" style="text-align: center;">
